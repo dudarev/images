@@ -1,3 +1,6 @@
+template pattern
+http://flic.kr/p/5fjTDc
+
 ## dan-deacon-coachella-2008-500-333.jpg
 
 http://www.flickr.com/photos/emayoh/2442998312/
@@ -14,4 +17,6 @@ http://www.flickr.com/photos/kent-chen/6825667892
 500x277: http://farm8.staticflickr.com/7070/6825667892_ec41eb5716.jpg
 1228x680: http://farm8.staticflickr.com/7070/6825667892_2692c79634_o.jpg
 Caption: ADM-3A Keyboard
+Author: Kent Chen
+Author URL: http://www.flickr.com/photos/kent-chen/
 License: by-nc-sa-2.0
